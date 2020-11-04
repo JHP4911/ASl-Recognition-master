@@ -14,7 +14,6 @@ database = {
 }
 # data = {key: value, key2: value2}
 # database.
-
 account = int(input("Enter account number: "))
 passwd = input("Enter password: ")
 
